@@ -1,64 +1,40 @@
 <div align="center">
-    <img width="300" src="./assets/main.gif"/>    
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Dmitry!" alt="Typing SVG" /></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Dmitry — Utkautka1"/></picture>
+
+<a href="https://dmitry-fullstack.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
+<a href="https://t.me/chelbp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TELEGRAM-0d1117?style=flat-square&logo=telegram&logoColor=ffffff"/><img src="https://img.shields.io/badge/TELEGRAM-ffffff?style=flat-square&logo=telegram&logoColor=000000" alt="Telegram"/></picture></a>
+<a href="mailto:dmitry@example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+
 </div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Dmitry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
 
 <div align="center">
-    <a href="https://t.me/chelbp"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
-    <a href="https://dmitry-fullstack.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-f2cdcd?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/></a>
+  <br/>
+  <!-- 🐍 АНИМИРОВАННАЯ ЗМЕЙКА В МИНИМАЛИСТИЧНОМ СТИЛЕ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg" width="97%">
+  </picture>
+  <br/>
 </div>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
 
 <div align="center">
-    <a href="https://user-badge.committers.top/russia/Utkautka1"><img src="https://user-badge.committers.top/russia/Utkautka1.svg"></a>
-</div>
-
-## 👻 A little about me... 
-
-I am a **Senior Full-Stack & DevOps Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
-
-Currently I am engaged in the development of open-source projects, high-load systems, automated developer tools and microservices architecture.
-
-```javascript
-const Utkautka1 = {
-    OS: ["Linux"],
-    languages: {
-        highLevel: ["Python", "SQL", "TypeScript", "JavaScript"],
-        baseLevel: ["Rust", "C", "Bash"]
-    },
-    programming: {
-        backend: ["FastAPI", "Node.js", "NestJS", "Express.js", "SQLAlchemy", "AsyncIO", "Prisma"],
-        frontend: ["React", "Next.js", "Material UI", "Tailwind CSS", "Redux Toolkit"],
-        databasesAndCaching: ["PostgreSQL", "Redis", "SQLite", "MongoDB", "ClickHouse"],
-        devOps: ["Docker", "Kubernetes", "Helm", "Terraform", "Ansible", "GitHub Actions", "GitLab CI/CD", "Nginx", "AWS"],
-        monitoring: ["Prometheus", "Grafana", "Loki", "ELK Stack"]
-    }
-};
-```
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<p align="center">
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,js,ts,react,nextjs,tailwind,postgres,redis,mongodb,docker,kubernetes,terraform,ansible,aws,githubactions,gitlab,nginx,prometheus,grafana,vercel&perline=12" alt="Skills" />
   </a>
-</p>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <br/><br/>
 </div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>

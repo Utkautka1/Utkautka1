@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1000 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Dmitry">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    .a1{animation-delay:.15s} .a2{animation-delay:.3s} .a3{animation-delay:.45s} .a4{animation-delay:.6s}
+  </style>
+
+  <text fill="var(--bone)" class="mono rise a1" x="48" y="44" font-size="16">I am a Senior Full-Stack &amp; DevOps Engineer passionate about building resilient systems.</text>
+  <text fill="var(--muted)" class="mono rise a2" x="48" y="84" font-size="14">Focused on Developer Experience (DX), high-load caching, microservices, and automated pipelines.</text>
+  <text fill="var(--muted)" class="mono rise a3" x="48" y="124" font-size="14">Specialized in Python (FastAPI), Node.js (NestJS), React, TypeScript, Kubernetes, Redis, and Terraform.</text>
+  <text fill="var(--accent)" class="mono rise a4" x="48" y="174" font-size="13">▸ Continuous self-improvement · Clean Architecture · Zero-Downtime Deployment</text>
+</svg>
