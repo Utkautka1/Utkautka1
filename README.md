@@ -1,14 +1,23 @@
 <div align="center">
 
-<!-- HEADER BANNER: Элегантная тёмная волна Vercel-стиля с градиентным заголовком -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Dmitry%20%E2%80%94%20Full-Stack%20%26%20DevOps%20Engineer&fontSize=32&fontColor=ffffff&fontAlignY=36&desc=Crafting%20Developer%20Experience%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Cloud%20Native%20Architecture&descSize=15&descAlignY=58&descColor=8b949e" width="100%" alt="Header Banner"/>
+<!-- ИНТЕРАКТИВНАЯ ТЁМНАЯ ШАПКА C НЕОНОВЫМ ГРАДИЕНТОМ VERCEL -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:1f242d,100:00f2fe&height=220&section=header&text=Dmitry%20%E2%80%94%20Senior%20Full-Stack%20%26%20DevOps&fontSize=34&fontColor=ffffff&fontAlignY=36&desc=Architecting%20Cloud-Native%20Systems%20%C2%B7%20High-Load%20Caching%20%C2%B7%20GitOps%20Automation&descSize=15&descAlignY=58&descColor=00f2fe" width="100%" alt="Header Banner"/>
+
+<br/>
+
+<!-- ДИНАМИЧЕСКИЙ ТАЙПИНГ С ЦВЕТНЫМИ НЕОНОВЫМИ ФРАЗАМИ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Building+scalable+FastAPI%2C+Node.js+%26+NestJS+microservices;🚀+Deploying+Kubernetes%2C+Terraform+%26+ArgoCD+GitOps+pipelines;🔥+Optimizing+Databases+with+Redis%2C+PostgreSQL+%26+ClickHouse;💎+Crafting+modern+Developer+Experience+(DX)+%26+Cloud+Native" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<!-- ТАЙПИНГ-ЭФФЕКТ: Лаконичные моноширинные строки -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+production-ready+FastAPI%2C+Node.js+%26+React+apps;Designing+Kubernetes%2C+Terraform+%26+CI%2FCD+pipelines;High-load+Caching+with+Redis+%26+Distributed+DBs;Focusing+on+DevOps%2C+Cloud-Native+%26+DX" alt="Typing SVG" />
-</a>
+<!-- ⚡ ДИНАМИЧЕСКАЯ АНИМИРОВАННАЯ КАРТОЧКА МЕТРИК WAKATIME / ACTIVECITY (3D / GLOW EFFECT) -->
+<p align="center">
+  <a href="https://github.com/Utkautka1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkautka1&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" width="95%" alt="Activity Graph" />
+  </a>
+</p>
 
 </div>
 
@@ -16,19 +25,20 @@
 
 ---
 
-### 💻 About Me
+### 💻 System Architecture & Core Stack
 
 ```typescript
 const developer = {
   name: "Dmitry",
   location: "Russia",
   role: "Senior Full-Stack & DevOps Engineer",
+  philosophy: "Automation, Resiliency, High-Availability, Clean Code",
   passions: [
     "Developer Experience (DX)",
     "Cloud-Native & Distributed Architecture",
     "High-Load System Optimization",
     "Infrastructure as Code (IaC)",
-    "GitOps & CI/CD Automation"
+    "GitOps & Zero-Downtime Deployment"
   ],
   coreStack: {
     backend: [
@@ -36,7 +46,7 @@ const developer = {
       "Node.js", "Express.js", "NestJS", "TypeScript"
     ],
     databasesAndCaching: [
-      "PostgreSQL", "Redis", "SQLite", "MongoDB",
+      "PostgreSQL", "Redis (Pub/Sub & Caching)", "SQLite", "MongoDB",
       "ClickHouse", "Prisma ORM"
     ],
     frontend: [
@@ -56,11 +66,11 @@ const developer = {
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Interactive Tech Stack & Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,js,ts,react,nextjs,tailwind,postgres,redis,mongodb,docker,kubernetes,terraform,ansible,aws,githubactions,gitlab,nginx,prometheus,grafana,vercel" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,js,ts,react,nextjs,tailwind,postgres,redis,mongodb,docker,kubernetes,terraform,ansible,aws,githubactions,gitlab,nginx,prometheus,grafana,vercel&perline=12" alt="Skills" />
   </a>
 </p>
 
@@ -68,26 +78,28 @@ const developer = {
 
 <div align="center">
 
-### 📊 GitHub Analytics
+### 📊 Performance Metrics & Analytics
 
 <br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Utkautka1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkautka1&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Utkautka1&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=8B949E" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkautka1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E" alt="Top Languages" />
 </p>
 
 <br/>
 
-<!-- STREAK CARD В ТЕМНОМ СТИЛЕ GITHUB -->
+<!-- STREAK CARD В ТЕМНОМ СТИЛЕ C НЕОНОВЫМ ОГНЕМ -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkautka1&theme=github-dark-blue&hide_border=true&background=0D1117&fire=58A6FF&ring=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkautka1&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" alt="GitHub Streak" />
 </p>
 
 <br/>
 
 <!-- ЗМЕЙКА (ВЫХОДНОЙ SVG) -->
+### 🐍 Contribution Activity Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
@@ -96,7 +108,7 @@ const developer = {
 
 <br/><br/>
 
-<!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=100&section=footer" width="100%" alt="Footer Banner"/>
+<!-- FOOTER BANNER WITH GRADIENT WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:1f242d,100:00f2fe&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
