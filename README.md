@@ -1,21 +1,12 @@
 <div align="center">
 
-<!-- 1. CYBERPUNK GIF BANNER НА ВСЮ ШИРИНУ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyberpunk Header Banner"/>
+<!-- 1. CYBERPUNK GIF BANNER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyberpunk Banner"/>
 
 <br/><br/>
 
-<!-- 2. TYPING SVG С КИБЕРПАНК СВЕЧЕНИЕМ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Dmitry+%7C+Senior+Full-Stack+%26+DevOps+Engineer;🚀+Python+%2F+FastAPI+%2F+Node.js+%2F+NestJS+%2F+React+%2F+TypeScript;🔥+Kubernetes+%2F+Terraform+%2F+Redis+%2F+PostgreSQL+%2F+AWS;💎+High-Load+Systems+%26+Cloud-Native+Architecture" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- 3. ДИНАМИЧЕСКИЙ ГРАФИК АКТИВНОСТИ (ACTIVITY GRAPH) -->
-<a href="https://github.com/Utkautka1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkautka1&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" width="95%" alt="Activity Graph" />
-</a>
+<!-- 2. TYPING EFFECT (ПРЯМАЯ КАРТИНКА БЕЗ СЫЛКИ, ЧТОБЫ НЕ ОТОБРАЖАЛСЯ СИНИЙ ТЕКСТ) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Dmitry+%7C+Senior+Full-Stack+%26+DevOps+Engineer;🚀+Python+%2F+FastAPI+%2F+Node.js+%2F+NestJS+%2F+React+%2F+TypeScript;🔥+Kubernetes+%2F+Terraform+%2F+Redis+%2F+PostgreSQL+%2F+AWS;💎+High-Load+Systems+%26+Cloud-Native+Architecture" alt="Typing SVG" />
 
 </div>
 
