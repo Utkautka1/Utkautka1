@@ -1,12 +1,36 @@
 <div align="center">
 
-# 👋 Hi, I'm Dmitry — Senior Full-Stack & DevOps Engineer
+<!-- 1. CYBERPUNK GIF BANNER НА ВСЮ ШИРИНУ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyberpunk Header Banner"/>
+
+<br/><br/>
+
+<!-- 2. TYPING SVG С КИБЕРПАНК СВЕЧЕНИЕМ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Dmitry+%7C+Senior+Full-Stack+%26+DevOps+Engineer;🚀+Python+%2F+FastAPI+%2F+Node.js+%2F+NestJS+%2F+React+%2F+TypeScript;🔥+Kubernetes+%2F+Terraform+%2F+Redis+%2F+PostgreSQL+%2F+AWS;💎+High-Load+Systems+%26+Cloud-Native+Architecture" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- 3. ДИНАМИЧЕСКИЙ ГРАФИК АКТИВНОСТИ (ACTIVITY GRAPH) -->
+<a href="https://github.com/Utkautka1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkautka1&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" width="95%" alt="Activity Graph" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+### 💻 System Architecture & Core Stack
 
 ```typescript
 const developer = {
   name: "Dmitry",
-  role: "Senior Full-Stack & DevOps Engineer",
   location: "Russia",
+  role: "Senior Full-Stack & DevOps Engineer",
+  philosophy: "Automation, Resiliency, High-Availability, Clean Code",
   passions: [
     "Developer Experience (DX)",
     "Cloud-Native & Distributed Architecture",
@@ -14,30 +38,70 @@ const developer = {
     "Infrastructure as Code (IaC)",
     "GitOps & Zero-Downtime Deployment"
   ],
-  stack: {
-    backend: ["Python", "FastAPI", "Node.js", "Express", "NestJS", "TypeScript"],
-    databases: ["PostgreSQL", "Redis", "SQLite", "MongoDB", "ClickHouse", "Prisma"],
-    frontend: ["TypeScript", "React", "Next.js", "Material UI", "Tailwind CSS"],
-    devops: ["Docker", "Kubernetes", "Helm", "Terraform", "Ansible", "GitHub Actions", "AWS", "Nginx", "Prometheus", "Grafana"]
+  coreStack: {
+    backend: [
+      "Python", "FastAPI", "AsyncIO", "SQLAlchemy",
+      "Node.js", "Express.js", "NestJS", "TypeScript"
+    ],
+    databasesAndCaching: [
+      "PostgreSQL", "Redis (Pub/Sub & Caching)", "SQLite", "MongoDB",
+      "ClickHouse", "Prisma ORM"
+    ],
+    frontend: [
+      "TypeScript", "React", "Next.js",
+      "Material UI", "Tailwind CSS", "Redux Toolkit"
+    ],
+    devopsAndInfrastructure: {
+      containerizationAndOrchestration: ["Docker", "Docker Compose", "Kubernetes", "Helm"],
+      infrastructureAsCode: ["Terraform", "Ansible"],
+      ciCdAndGitOps: ["GitHub Actions", "GitLab CI/CD", "ArgoCD"],
+      cloudAndHosting: ["AWS (EC2, S3, EKS)", "Vercel", "Nginx", "Traefik"],
+      monitoringAndObservability: ["Prometheus", "Grafana", "Loki", "ELK Stack"]
+    }
   }
 };
 ```
 
-### 🛠️ Tech Stack & Skills
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 🛠️ Interactive Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,js,ts,react,nextjs,tailwind,postgres,redis,mongodb,docker,kubernetes,terraform,ansible,aws,githubactions,gitlab,nginx,prometheus,grafana,vercel&perline=12" alt="Skills" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 📊 Performance Analytics & Metrics
+
 <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Utkautka1&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=8B949E" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkautka1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E" alt="Top Languages" />
+</p>
+
+<br/>
+
+<!-- STREAK CARD В СТИЛЕ RADICAL -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkautka1&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<!-- 🐍 АНИМИРОВАННАЯ ЗМЕЙКА -->
+### 🐍 Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
