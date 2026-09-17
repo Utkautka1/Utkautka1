@@ -1,84 +1,52 @@
 <div align="center">
+    <img width="300" src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Dmitry!" alt="Typing SVG" /></a>
+</div>
 
-<!-- 1. CYBERPUNK GIF BANNER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/><br/>
-
-<!-- 2. НАШ ЛОКАЛЬНЫЙ АНИМИРОВАННЫЙ НЕОНОВЫЙ SVG С ПЕРЕЛИВАНИЕМ -->
-<img src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/main/assets/animated-header.svg" width="100%" />
-
-<br/>
-
-<!-- 3. НАДЁЖНЫЙ TYPING SVG (ПЕЧАТАЮЩИЙСЯ ТЕКСТ НА ГЛАЗАХ) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Senior+Full-Stack+%26+DevOps+Engineer;🚀+Python+%2F+FastAPI+%2F+Node.js+%2F+NestJS+%2F+React;🔥+Kubernetes+%2F+Terraform+%2F+Redis+%2F+PostgreSQL+%2F+AWS;💎+High-Load+Systems+%26+Cloud-Native+Architecture" />
-
+<div align="center">
+    <a href="https://t.me/chelbp"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
+    <a href="https://dmitry-fullstack.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-f2cdcd?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/></a>
 </div>
 
 <br/>
 
----
+<div align="center">
+    <a href="https://user-badge.committers.top/russia/Utkautka1"><img src="https://user-badge.committers.top/russia/Utkautka1.svg"></a>
+</div>
 
-### 💻 System Architecture & Core Stack
+## 👻 A little about me... 
 
-```typescript
-const developer = {
-  name: "Dmitry",
-  location: "Russia",
-  role: "Senior Full-Stack & DevOps Engineer",
-  philosophy: "Automation, Resiliency, High-Availability, Clean Code",
-  passions: [
-    "Developer Experience (DX)",
-    "Cloud-Native & Distributed Architecture",
-    "High-Load System Optimization",
-    "Infrastructure as Code (IaC)",
-    "GitOps & Zero-Downtime Deployment"
-  ],
-  coreStack: {
-    backend: [
-      "Python", "FastAPI", "AsyncIO", "SQLAlchemy",
-      "Node.js", "Express.js", "NestJS", "TypeScript"
-    ],
-    databasesAndCaching: [
-      "PostgreSQL", "Redis (Pub/Sub & Caching)", "SQLite", "MongoDB",
-      "ClickHouse", "Prisma ORM"
-    ],
-    frontend: [
-      "TypeScript", "React", "Next.js",
-      "Material UI", "Tailwind CSS", "Redux Toolkit"
-    ],
-    devopsAndInfrastructure: {
-      containerizationAndOrchestration: ["Docker", "Docker Compose", "Kubernetes", "Helm"],
-      infrastructureAsCode: ["Terraform", "Ansible"],
-      ciCdAndGitOps: ["GitHub Actions", "GitLab CI/CD", "ArgoCD"],
-      cloudAndHosting: ["AWS (EC2, S3, EKS)", "Vercel", "Nginx", "Traefik"],
-      monitoringAndObservability: ["Prometheus", "Grafana", "Loki", "ELK Stack"]
+I am a **Senior Full-Stack & DevOps Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
+
+Currently I am engaged in the development of open-source projects, high-load systems, automated developer tools and microservices architecture.
+
+```javascript
+const Utkautka1 = {
+    OS: ["Linux"],
+    languages: {
+        highLevel: ["Python", "SQL", "TypeScript", "JavaScript"],
+        baseLevel: ["Rust", "C", "Bash"]
+    },
+    programming: {
+        backend: ["FastAPI", "Node.js", "NestJS", "Express.js", "SQLAlchemy", "AsyncIO", "Prisma"],
+        frontend: ["React", "Next.js", "Material UI", "Tailwind CSS", "Redux Toolkit"],
+        databasesAndCaching: ["PostgreSQL", "Redis", "SQLite", "MongoDB", "ClickHouse"],
+        devOps: ["Docker", "Kubernetes", "Helm", "Terraform", "Ansible", "GitHub Actions", "GitLab CI/CD", "Nginx", "AWS"],
+        monitoring: ["Prometheus", "Grafana", "Loki", "ELK Stack"]
     }
-  }
 };
 ```
 
----
-
-### 🛠️ Interactive Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,js,ts,react,nextjs,tailwind,postgres,redis,mongodb,docker,kubernetes,terraform,ansible,aws,githubactions,gitlab,nginx,prometheus,grafana,vercel&perline=12" alt="Skills" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-<!-- 🐍 АНИМИРОВАННАЯ ЗМЕЙКА -->
-### 🐍 Contribution Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<details open>
+<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=Utkautka1&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+    <img alt="Utkautka1 profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=Utkautka1&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+    <br/><br/>
+    <!-- 🐍 АНИМИРОВАННАЯ ЗМЕЙКА -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
+    </picture>
+</details>
