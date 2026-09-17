@@ -39,14 +39,26 @@ const Utkautka1 = {
 };
 ```
 
-<details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=Utkautka1&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="Utkautka1 profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=Utkautka1&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <br/><br/>
-    <!-- 🐍 АНИМИРОВАННАЯ ЗМЕЙКА -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
-    </picture>
-</details>
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,js,ts,react,nextjs,tailwind,postgres,redis,mongodb,docker,kubernetes,terraform,ansible,aws,githubactions,gitlab,nginx,prometheus,grafana,vercel&perline=12" alt="Skills" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
