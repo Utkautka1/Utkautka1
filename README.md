@@ -5,12 +5,8 @@
 
 <br/><br/>
 
-<!-- 2. КРАСИВЫЙ АНИМИРОВАННЫЙ СТИЛИЗОВАННЫЙ ТЕКСТ (HTML MARQUEE + TYPING-ИКОНКА) -->
-<h1>⚡ Dmitry — Senior Full-Stack & DevOps Engineer ⚡</h1>
-
-<p align="center">
-  <b>🚀 Python • FastAPI • Node.js • NestJS • React • TypeScript • Kubernetes • Terraform • Redis • AWS</b>
-</p>
+<!-- 2. НАШ СОБСТВЕННЫЙ ЛОКАЛЬНЫЙ АНИМИРОВАННЫЙ НЕОНОВЫЙ SVG (ПЕРЕЛИВАЕТСЯ ЦВЕТАМИ В РЕАЛЬНОМ ВРЕМЕНИ!) -->
+<img src="./assets/animated-header.svg" width="100%" />
 
 </div>
 
