@@ -1,6 +1,6 @@
-<svg viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- АНИМИРОВАННЫЙ НЕОНОВЫЙ ГРАДИЕНТ -->
+    <!-- ПЕРЕЛИВАЮЩИЙСЯ ГРАДИЕНТ -->
     <linearGradient id="rainbowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00F2FE">
         <animate attributeName="stop-color" values="#00F2FE;#4FACFE;#00FF87;#7F00FF;#00F2FE" dur="6s" repeatCount="indefinite" />
@@ -13,19 +13,27 @@
       </stop>
     </linearGradient>
 
-    <!-- СТИЛИ ДЛЯ ПЕРЕЛИВАЮЩЕГОСЯ И ПЕЧАТАЮЩЕГОСЯ ТЕКСТА -->
     <style>
+      @keyframes typing {
+        from { width: 0; }
+        to { width: 100%; }
+      }
+
+      @keyframes blink {
+        50% { border-color: transparent; }
+      }
+
       .gradient-title {
         font-family: 'Fira Code', 'Courier New', monospace;
-        font-size: 32px;
+        font-size: 30px;
         font-weight: 800;
         fill: url(#rainbowGradient);
         text-anchor: middle;
       }
 
-      .typing-subtitle {
+      .subtitle {
         font-family: 'Fira Code', 'Courier New', monospace;
-        font-size: 17px;
+        font-size: 16px;
         font-weight: 600;
         fill: #8B949E;
         text-anchor: middle;
@@ -34,8 +42,8 @@
   </defs>
 
   <!-- ПЕРЕЛИВАЮЩИЙСЯ ЗАГОЛОВОК -->
-  <text x="50%" y="45" class="gradient-title">⚡ Dmitry — Senior Full-Stack &amp; DevOps Engineer ⚡</text>
+  <text x="50%" y="50" class="gradient-title">⚡ Dmitry — Senior Full-Stack &amp; DevOps Engineer ⚡</text>
 
   <!-- ВТОРАЯ СТРОКА -->
-  <text x="50%" y="90" class="typing-subtitle">🚀 Python • FastAPI • Node.js • NestJS • React • TypeScript • Kubernetes • Redis • AWS</text>
+  <text x="50%" y="95" class="subtitle">🚀 Python • FastAPI • Node.js • NestJS • React • TypeScript • Kubernetes • Redis • AWS</text>
 </svg>

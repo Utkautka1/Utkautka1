@@ -5,8 +5,13 @@
 
 <br/><br/>
 
-<!-- 2. НАШ СОБСТВЕННЫЙ ЛОКАЛЬНЫЙ АНИМИРОВАННЫЙ НЕОНОВЫЙ SVG (ПЕРЕЛИВАЕТСЯ ЦВЕТАМИ В РЕАЛЬНОМ ВРЕМЕНИ!) -->
-<img src="./assets/animated-header.svg" width="100%" />
+<!-- 2. НАШ ЛОКАЛЬНЫЙ АНИМИРОВАННЫЙ НЕОНОВЫЙ SVG С ПЕРЕЛИВАНИЕМ -->
+<img src="https://raw.githubusercontent.com/Utkautka1/Utkautka1/main/assets/animated-header.svg" width="100%" />
+
+<br/>
+
+<!-- 3. НАДЁЖНЫЙ TYPING SVG (ПЕЧАТАЮЩИЙСЯ ТЕКСТ НА ГЛАЗАХ) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Senior+Full-Stack+%26+DevOps+Engineer;🚀+Python+%2F+FastAPI+%2F+Node.js+%2F+NestJS+%2F+React;🔥+Kubernetes+%2F+Terraform+%2F+Redis+%2F+PostgreSQL+%2F+AWS;💎+High-Load+Systems+%26+Cloud-Native+Architecture" />
 
 </div>
 
@@ -71,17 +76,11 @@ const developer = {
 
 <br/>
 
+<!-- ИСПОЛЬЗУЕМ СТИЛЬНЫЕ И ИЗВЕСТНЫЕ РАБОЧИЕ КАРТОЧКИ STATS -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Utkautka1&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=8B949E" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Utkautka1&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkautka1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E" />
-</p>
-
-<br/>
-
-<!-- STREAK CARD В СТИЛЕ RADICAL -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkautka1&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkautka1&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <br/>
