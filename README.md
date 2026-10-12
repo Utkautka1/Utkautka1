@@ -129,7 +129,7 @@ I’m open to collaborating on:
 </a>
 <br><br>
 
-<a href="https://t.me/chelbp">
+<a href="https://t.me/rooting_dev">
   <img src="https://img.shields.io/badge/telegram-chelbp-blue?style=for-the-badge&logo=telegram" alt="Telegram contact link">
 </a>
 
