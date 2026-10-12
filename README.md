@@ -130,7 +130,7 @@ I’m open to collaborating on:
 <br><br>
 
 <a href="https://t.me/rooting_dev">
-  <img src="https://img.shields.io/badge/telegram-chelbp-blue?style=for-the-badge&logo=telegram" alt="Telegram contact link">
+  <img src="https://img.shields.io/badge/telegram-rooting_dev-blue?style=for-the-badge&logo=telegram" alt="Telegram contact link">
 </a>
 
 </td>
