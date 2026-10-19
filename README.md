@@ -25,7 +25,7 @@
   <a href="https://github.com/Utkautka1/Utkautka1">
     <img src="https://img.shields.io/badge/profile%20repo-system%20README-a78bfa?style=flat-square&logo=github" alt="Profile repository badge" />
   </a>
-  <a href="https://t.me/chelbp">
+  <a href="https://t.me/rooting_dev">
     <img src="https://img.shields.io/badge/open%20to-collaboration-f59e0b?style=flat-square&logo=telegram" alt="Open to collaboration" />
   </a>
 </p>
